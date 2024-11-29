@@ -1,0 +1,55 @@
+[
+    
+        {
+            "id": 1,
+            "name": "Shoes",
+            "category": "Sport",
+            "price": 1399.00,
+            "stock": 15,
+            "image": "../public/1.png"
+          },
+
+          
+        {
+            "id": 2,
+            "name": "Shoes",
+            "category": "Sport",
+            "price": 1299.00,
+            "stock": 20,
+            "image": "../public/2.png"
+          },
+
+          {
+            "id": 3,
+            "name": "Shoes",
+            "category": "Sport",
+            "price": 1499.00,
+            "stock": 20,
+            "image": "../public/3.png"
+          },
+          {
+            "id": 4,
+            "name": "Shoes",
+            "category": "formal",
+            "price": 1199.00,
+            "stock": 10,
+            "image": "../public/4.png"
+          },
+          {
+            "id": 5,
+            "name": "Shoes",
+            "category": "formal",
+            "price": 1199.00,
+            "stock": 8,
+            "image": "../public/5.png"
+          },
+          {
+            "id": 6,
+            "name": "slippers",
+            "category": "Slippers",
+            "price": 799.00,
+            "stock": 7,
+            "image": "../public/6.png"
+          }
+
+]
