@@ -6,7 +6,7 @@
             "category": "Sport",
             "price": 1399.00,
             "stock": 15,
-            "image": "../public/1.png"
+            "image": "./public/1.png"
           },
 
           
@@ -16,7 +16,7 @@
             "category": "Sport",
             "price": 1299.00,
             "stock": 20,
-            "image": "../public/2.png"
+            "image": "./public/2.png"
           },
 
           {
@@ -25,7 +25,7 @@
             "category": "Sport",
             "price": 1499.00,
             "stock": 20,
-            "image": "../public/3.png"
+            "image": "./public/3.png"
           },
           {
             "id": 4,
@@ -33,7 +33,7 @@
             "category": "formal",
             "price": 1199.00,
             "stock": 10,
-            "image": "../public/4.png"
+            "image": "./public/4.png"
           },
           {
             "id": 5,
@@ -41,7 +41,7 @@
             "category": "formal",
             "price": 1199.00,
             "stock": 8,
-            "image": "../public/5.png"
+            "image": "./public/5.png"
           },
           {
             "id": 6,
@@ -49,7 +49,7 @@
             "category": "Slippers",
             "price": 799.00,
             "stock": 7,
-            "image": "../public/6.png"
+            "image": "./public/6.png"
           }
 
 ]
