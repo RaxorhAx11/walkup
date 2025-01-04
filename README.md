@@ -1,5 +1,5 @@
 Live Demo:
-https://taupe-quokka-7f3553.netlify.app/
+https://walkup.netlify.app/
 
 Walkup Online Shoes Store
 An interactive and user-friendly online shoe store created using HTML, CSS, and JavaScript. This project showcases a modern e-commerce interface designed to provide an excellent shopping experience.
